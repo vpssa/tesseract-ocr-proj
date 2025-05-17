@@ -1,0 +1,9 @@
+opencv-python
+pytesseract
+Pillow
+numpy
+scikit-image
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
